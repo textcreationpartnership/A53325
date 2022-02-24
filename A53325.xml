@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last judgment, or, A discourse shewing the reasonableness of the belief of such a thing deliver'd in a sermon, at the assizes held for the county of Denbigh, on the 18th of April, anno 1682 / by John Oliver ...</title>
+            <author>Oliver, John, d. 1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53325</idno>
+            <idno type="STC">Wing O275</idno>
+            <idno type="STC">ESTC R10726</idno>
+            <idno type="EEBO-CITATION">13002172</idno>
+            <idno type="OCLC">ocm 13002172</idno>
+            <idno type="VID">96477</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53325)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96477)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 394:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last judgment, or, A discourse shewing the reasonableness of the belief of such a thing deliver'd in a sermon, at the assizes held for the county of Denbigh, on the 18th of April, anno 1682 / by John Oliver ...</title>
+                  <author>Oliver, John, d. 1730.</author>
+               </titleStmt>
+               <extent>[5], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Minshull ... and Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment Day --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96477:1"/>
+            <pb facs="tcp:96477:1" rendition="simple:additions"/>
+            <p>THE Laſt Judgment: OR A DISCOURSE Shewing the reaſonableneſs of the Belief of ſuch a thing.</p>
+            <p>Deliver'd in a SERMON, At the ASSIZES held for the County of <hi>DENBIGH,</hi> on the 18<hi rend="sup">th</hi> of <hi>April, Anno</hi> 1682.</p>
+            <p>By <hi>JOHN OLIVER,</hi> Chaplain to the Right Wor<g ref="char:EOLhyphen"/>ſhipful Sir <hi>Thomas Delves</hi> of <hi>Dodington</hi> in <hi>Cheſhire,</hi> Baronet, and ſometime Student of <hi>Clare-Hall</hi> in <hi>Cambridge.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Minſhull,</hi> and to be ſold at his Shop in <hi>Bridge-ſtreet</hi> in <hi>Cheſter,</hi> and <hi>Ric. Chiſwell</hi> at the Roſe and Crown in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96477:2"/>
+            <pb facs="tcp:96477:2"/>
+            <head>To the Right Worſhipful <hi>JOSH<g ref="char:V">Ʋ</g>A EDISB<g ref="char:V">Ʋ</g>RY,</hi> 
+               <abbr>Eſq</abbr> High Sheriff For the County of DENBIGH.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis Sermon came abroad at laſt to teſtifie the grateful ſenſe I have of the many favours received from your ſelf, and ſome other Members of that Audience, in which it was deliver'd. And ſince it is made thus publick, it can't in juſtice be entitled to any other Perſon than your ſelf, the firſt occaſion of its being: There were ſeveral Arguments that might have diſſwaded any man in my Circumstances from a Work of this kind (of which the unripeneſs of my years, and a natural averſion to be knownin ſuch a
+<pb facs="tcp:96477:3"/>quarrelſome Age, where the plainneſt things are become matter of Controverſie, were none of the leaſt.) And yet I reckon'd, that the Requeſt of thoſe worthy Per<g ref="char:EOLhyphen"/>ſons, who were pleas'd to ſet ſuch extraordinary marks of their Favour, upon one who was perfectly a Stranger to them, could not be denyed without a ſecret reproach of Ingratitude. I have therefore been ſo hardy, as to expoſe it a ſecond time, and do lay it down with all ſubmiſſion at your Feet, beſeeching you to receive it with as much Candor, as 'tis offer'd with Modesty by</p>
+            <closer>
+               <signed>
+                  <hi>Your Moſt humble, and moſt obliged Servant,</hi> JOHN OLI<g ref="char:V">Ʋ</g>ER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:96477:3"/>
+            <head>A SERMON Preach'd at the AS SIZES held for the County of <hi>DENBIGH. April</hi> 18. 1682.</head>
+            <epigraph>
+               <q>
+                  <bibl>2 Cor. 5. and former part of the 10<hi rend="sup">th</hi> Verſe.</bibl>
+                  <p>For we must all appear before the Judgment Seat of Christ.</p>
+               </q>
+            </epigraph>
+            <p>I Don't know any one Article of our Chriſtian Faith, that can poſſibly have a more univerſal influ<g ref="char:EOLhyphen"/>ence on the Lives and Actions of all men, than that which concerns a Judgment to come: And I know no time ſo proper to mind you of that General Aſſize, in which all men ſhall be ſummon'd to give Account of their doings as the preſent occaſion. For as nothing can be of greater Force for the Govern<g ref="char:EOLhyphen"/>ment of our whole time, ſo nothing can more imme<g ref="char:EOLhyphen"/>diately conduce to regulate the particular Actions of this, than a firm Belief, that whatever paſſes from us here, will be entred into the moſt laſting and unalter<g ref="char:EOLhyphen"/>able
+<pb n="2" facs="tcp:96477:4"/>Regiſters, be laid up among the Archieves of Heaven, and muſt as certainly be review'd another day, and at another Bar of the moſt exact and impartial Ju<g ref="char:EOLhyphen"/>ſtice.</p>
+            <p>In my Defence of this great Principle, I ſhall en<g ref="char:EOLhyphen"/>deavour to make out theſe 3 things.</p>
+            <list>
+               <item>1. That the belief of a Judgment to come is ſuit<g ref="char:EOLhyphen"/>able to thoſe common Notions which are im<g ref="char:EOLhyphen"/>printed on our minds: And that every ſober Per<g ref="char:EOLhyphen"/>ſon by reflecting on his own frame, muſt unavoid<g ref="char:EOLhyphen"/>ably fall under this perſwaſion.</item>
+               <item>2. That the Belief of a Judgment to come, is agree<g ref="char:EOLhyphen"/>able to that Notion men have concerning the Being and Providence of a God.</item>
+               <item>3. That this Doctrine is infinitely certain upon the grounds of Scripture, and eſpecially the Goſpel, whoſe great Priviledge it is to have brought Life and Immortality to Light.</item>
+            </list>
+            <p>I begin with the firſt of theſe.</p>
+            <p>
+               <hi>Viz.</hi> 1. That the Belief of a Judgment to come is ſuitable to thoſe common Notions which are im<g ref="char:EOLhyphen"/>printed on our minds, and that every ſober Per<g ref="char:EOLhyphen"/>ſon by reflecting on his own Frame, muſt un<g ref="char:EOLhyphen"/>avoidably fall under this Perſwaſion.</p>
+            <p>We cann't imagine, that the great Author of our Being ſhould leave any Impreſſions upon man, the moſt excellent piece of his workmanſhip here below, which
+<pb n="3" facs="tcp:96477:4"/>ſhould ſtand for a Cypher: Nothing could be a grea<g ref="char:EOLhyphen"/>ter impeaching of his Wiſdom, than to have put ſuch things into our Conſtitution, as could be of no uſe or advantage to us: If there be therefore any ſuch Prin<g ref="char:EOLhyphen"/>ciples ſtamp'd upon us, as will naturally enforce the Be<g ref="char:EOLhyphen"/>lief of another Judgment: And if theſe Principles can proceed from nothing elſe but the Finger of the Al<g ref="char:EOLhyphen"/>mighty, this will be one fair Evidence, that ſuch a thing muſt certainly be.</p>
+            <p>And that there are ſuch Principles ſtamp'd upon our minds, as will naturally enforce the Belief of another Judgment, is plain from the univerſal Conſent of men in all times and places about it.</p>
+            <p>For this Doctrine of a Judgment to come, has found a general entertainment in the World: Not only a<g ref="char:EOLhyphen"/>mongſt the <hi>Greeks</hi> and <hi>Romans,</hi> thoſe People, by whom Learning and Arts, Policy and Government were im<g ref="char:EOLhyphen"/>prov'd to a conſiderable degree: But alſo amongſt the rude and barbarous Nations, where nothing of this kind can be aſſign'd as the grounds of it: There being little of Policy or Religion, or Learning or good Man<g ref="char:EOLhyphen"/>ners to be there met with. Whatever there was to difference theſe laſt from the more civiliz'd part of Man<g ref="char:EOLhyphen"/>kind, yet in this they all agreed; the Being of a God, a future State, the diſtribution of Rewards and Puniſh<g ref="char:EOLhyphen"/>ments according to the Actions of men in this Life.</p>
+            <p>It muſt be granted, indeed, that the apprehenſions the Heathens had of another Life were dark and clou<g ref="char:EOLhyphen"/>dy: The Rewards they imagin'd to be laid up for good
+<pb n="4" facs="tcp:96477:5"/>men, were moſtly adapted to the gratifying of the ſen<g ref="char:EOLhyphen"/>ſual Part, and the Puniſhments to be inflicted on evil men, were ſuch as they thought moſt ſuitable to the Crimes here committed.</p>
+            <p>They tell us, that when good men have paſs'd their Tryals, they are immediately convey'd into ſome Para<g ref="char:EOLhyphen"/>dyſial place, ſome flowry Fields and Gardens, always flouriſhing and delightful, where they meet with ſuch innocent enjoyments, as they took moſt pleaſure in while here on Earth: Which (by the way) is a ſe<g ref="char:EOLhyphen"/>cret reflection on the looſe pretender to Chriſtianity, who reſolves to ſpend all his dayes in riot and exceſs, in filthineſs and debauchery, and yet hopes in the end to be poſſeſs'd of thoſe ſpiritual Pleaſures above, which are nothing akin to the Pleaſures he met with here, and if enjoy'd, could be no more ſatisfaction to him, than it would be to a Swine to have his Stye built of Cedar, his Bed perfum'd, and his Meat ſerv'd him in Plate.</p>
+            <p>As for the wicked, they tell us, the Portion of ſuch is to be caſt into black and diſmal Priſons, to be tor<g ref="char:EOLhyphen"/>mented by Haggs and Furies, and to meet with ſuch other Puniſhments, as the nature and weight of their Crimes deſerved.</p>
+            <p>And however, this Account be infinitely ſhort of what the Scripture affords, concerning the different Conditions of men in another World, yet it argues a ſtrong perſwaſion even amongſt Infidels of a future State, and that ſuch a thing was acknowledg'd by
+<pb n="5" facs="tcp:96477:5"/>them, though the Nature and Circumſtances of it could not be made out, without the aſſiſtance of a ſupernatural Light.</p>
+            <p>If it be ſaid, that there is no ſuch univerſal con<g ref="char:EOLhyphen"/>ſent as is here pretended, becauſe ſome few Perſons Atheiſtically inclin'd, have now and then diſown'd the Opinion; it's eaſily anſwer'd, that two or three ſuch Inſtances can be no prejudice to the General Judgment of moſt men, both learned and unlearned: That it has been their Intereſt, there ſhould be no ſuch thing as a Judgment to come, and therefore they have rack'd their Brains to find out Arguments againſt it: That the impurity of their Lives has ſul<g ref="char:EOLhyphen"/>lied their Reaſons, and debauch'd their underſtand<g ref="char:EOLhyphen"/>ings, and rendred them as uncapable of judging what belongs to the humane Nature, as a man born blind is to read a Lecture about Colours, or a Per<g ref="char:EOLhyphen"/>ſon with a diſtemper'd Palate to diſtinguiſh meats.</p>
+            <p>But now to what Cauſe ſhall we aſſign this uni<g ref="char:EOLhyphen"/>verſal Agreement? How comes it about, that the moſt diſtant People of the World, that live under different Models of Government, and diſtinct Rites of Worſhip; that have peculiar Cuſtoms and Man<g ref="char:EOLhyphen"/>ners, and Inclinations, ſhould all joyn in this, that there is an Account to be given in another World, of all our Actions done in this? Beſides, how comes this Principle to ſtand ſo fix'd and unſhaken, conſi<g ref="char:EOLhyphen"/>dering the infinite changes which almoſt every thing elſe has undergone, and the many attempts which have been made to alter this by a ſort of men, that
+<pb n="6" facs="tcp:96477:6"/>would confound the Diſtinction betwixt Vertue and Vice here, that there might be no ſuch thing as ei<g ref="char:EOLhyphen"/>ther Heaven or Hell hereafter? We ſee daily, that other Opinions riſe and fall, according as the grounds they are built upon appear ſtronger or weaker; and ſometimes they have more, ſometimes fewer Defen<g ref="char:EOLhyphen"/>dants to own and countenance them: But this Do<g ref="char:EOLhyphen"/>ctrine of a Judgment to come, as it is of equal An<g ref="char:EOLhyphen"/>tiquity, and has the ſame extent with Mankind, ſo is it conſtantly the ſame: Tract of Time, and revo<g ref="char:EOLhyphen"/>lution of Ages, and deeper inſight into the nature of things; the ſeveral changes that have happened in the Laws, the Religions, the Cuſtoms of any Peo<g ref="char:EOLhyphen"/>ple, have not been able to abate any thing of its Au<g ref="char:EOLhyphen"/>thority, but ſtill as the World grows older and more changeable, this grows more ſtrong, vigorous and conſtant.</p>
+            <p>It muſt then have ſome cauſe like it ſelf, it muſt be reſolv'd into ſome ſuch impreſſions as are com<g ref="char:EOLhyphen"/>mon to Mankind, which every man carries about him, and from which he may argue himſelf into a belief of it.</p>
+            <p>I am eaſily induc'd to think, that as the main Bo<g ref="char:EOLhyphen"/>dy of the Heathen Theology, was but the old Tra<g ref="char:EOLhyphen"/>ditional Religion corrupted by a long and tedious de<g ref="char:EOLhyphen"/>ſcent, (as all things are apt to loſe of their native Purity the farther they go) ſo this Account of a fu<g ref="char:EOLhyphen"/>ture Judgment amongſt the Heathens might be a branch of it, mixt with the fancies and inventions of men, till the firſt Patriarchal Creed became a
+<pb n="7" facs="tcp:96477:6"/>meer Poetical Story. But yet I think it will be hard to perſwade any man that a Doctrine of this kind, ſo oppoſite to mens worldly Intereſts, ſo apt to con<g ref="char:EOLhyphen"/>troul their Luſts and Paſſions, ſhould ſpread ſo far, and prevail ſo generally, were there not ſome more early impreſſion left upon us, to make room in our underſtandings for it, ſome natural notions, that a<g ref="char:EOLhyphen"/>midſt all viciſſitudes of the World would be ſure to uphold the truth of it: I inſtance in theſe three.</p>
+            <list>
+               <item>1. That apprehenſion which all men have concern<g ref="char:EOLhyphen"/>ing good and evil.</item>
+               <item>2. That ſecret joy which good men find upon the doing any vertuous act: And that confidence they have when they ſuffer upon the ſcore of Piety and Religion.</item>
+               <item>3. Thoſe horrible Fears and Confuſions, which bad men find upon the doing an ill act.</item>
+            </list>
+            <p>Theſe are natural to us as men, and fair Eviden<g ref="char:EOLhyphen"/>ces of what I have undertook to make out.</p>
+            <p n="1">1. That apprehenſion which all men have con<g ref="char:EOLhyphen"/>cerning good and evil, argues a future Judgment.</p>
+            <p>That ſome actions are Vertuous and Honourable, and the contrary baſe and vitious, and that Antece<g ref="char:EOLhyphen"/>dently to any humane Law or poſitive Cuſtom for the making them ſo, is the common voice of mankind: To be innocent in our Converſations, grateful to our Benefactors, upright in our Dealings, true to our Vows and Promiſes, Oaths and Contracts, theſe
+<pb n="8" facs="tcp:96477:7"/>are ſuch things, as would be excellent and approved of all, though there were no humane Laws to en<g ref="char:EOLhyphen"/>joyn and encourage the practice of them: And on the other hand the oppoſite Vices are ſo deform'd and ugly, that ſhould all the Law-givers on earth conſpire to change the Scene, to make Vertue Vice, and Evil Good, the undertaking would be as ſtrange as unſuccesful: Such attempts could never obtain their end, unleſs they could mould the man over a<g ref="char:EOLhyphen"/>gain, and infuſe into him quite different Principles, from what he has already.</p>
+            <p>And though men are ſo far willing to comply with their temporal Intereſts, as to contradict in the Pra<g ref="char:EOLhyphen"/>ctick, what they are content to own in the Specula<g ref="char:EOLhyphen"/>tive; yet there are not many arrived to that pitch of Prophaneneſs, but would appear in the World un<g ref="char:EOLhyphen"/>der another Character, than what they really de<g ref="char:EOLhyphen"/>ſerve: Which argues at leaſt in the worſt of men a ſecret allowance, that Virtue has ſomething in it more ſuitable to the honour of the humane Nature, and that Vice has that intrinſick uglineſs in it, that we bluſh at and are aſham'd to own.</p>
+            <p>Now the goodneſs of every Action conſiſting in a conformity to its proper Rule, and the badneſs of a<g ref="char:EOLhyphen"/>ny Act in a deflection from it: It will follow, that there is a Rule ſtamp'd upon the mind of every man, according to which he judges one Act good, and a<g ref="char:EOLhyphen"/>nother evil; and that Judgment about good and e<g ref="char:EOLhyphen"/>vil being one and the ſame in all Parts of the World, the Rule muſt be ſo too, and conſequently, have the
+<pb n="9" facs="tcp:96477:7"/>ſame Author which our very Being has, the all-wiſe God: This is that Rule the <hi>Roman</hi> Orator ſtyl'd, <hi>Non ſcripta lex ſed nata,</hi> a Law not written on Ta<g ref="char:EOLhyphen"/>bles of Stone or Braſs, but engraven on the Heart and Conſcience of man, agreeable to St. <hi>Paul</hi>'s Cha<g ref="char:EOLhyphen"/>racter of the Gentiles, which having not the Law, are a Law to themſelves,<note place="margin">
+                  <hi>Rom.</hi> 2.14, 15.</note> and do ſhew the work of the Law written in their Hearts, their Conſciences alſo bearing Witneſs, and their thoughts the mean while accuſing or excuſing one another.</p>
+            <p>'Twill alſo follow, that the great Author of this Law muſt have reſerv'd ſome Rewards and Puniſh<g ref="char:EOLhyphen"/>ments to ſecure mens obedience to it: It being below the wiſdom of any temporal Prince, to ſend his Sta<g ref="char:EOLhyphen"/>tutes and Decrees abroad without ſuch Motives to enforce their obſervance: And if theſe Rewards and Puniſhments are not immediately diſpens'd (as I ſhall after ſhew) there muſt be another time ſet apart for that work of Juſtice.</p>
+            <p n="2">2. That ſecret joy, which good men find upon the doing a vertuous Act, is a kind of earneſt and anti<g ref="char:EOLhyphen"/>cipation of a future Reward; and that conſidence they have when they ſuffer upon the Score of Piety and Religion, argues an expectation of it. Let the good man reflect upon the frame of his mind, when he has been doing his duty, and hee'l find every thing there calm and peaceable.</p>
+            <p>There is ſomething within him, that whiſpers the ſoft Eulogies, of a well done good and faithful Ser<g ref="char:EOLhyphen"/>vant,
+<pb n="10" facs="tcp:96477:8"/>and entitles him to the Approbation of his great Maſter.</p>
+            <p>Beſides, when he ſuffers upon the account of do<g ref="char:EOLhyphen"/>ing well, what is it, that bears up his Spirit, but an aſſurance, that he ſuffers in a good Cauſe, and a reaſonable hope, that he ſhall be rewarded for it? This was the true Foundation of that undaunted Courage, with which the firſt Chriſtians outbrav'd the Malice of their bloodieſt Perſecutors. This was it that made ſo many Champions for Religion, both before and under the Law, of whoſe Sufferings the Author to the <hi>Hebrews</hi> gives us this Catalogue:<note place="margin">
+                  <hi>Heb.</hi> 11.36, 37, 38.</note> They had Tryals of cruel Mockings and Scourgings, yea, moreover of Bonds and Impriſonments: They were Stoned, they were Sawn aſunder, were tempted, were ſlain with the Sword; they wandred about in Sheep-skins and Goat-skins, being deſtitute, afflict<g ref="char:EOLhyphen"/>ed, tormented; (of whom the World was not wor<g ref="char:EOLhyphen"/>thy) the wandred in Deſarts and Mountains, in Dens and Caves of the Earth: And under all theſe the great encouragement was the Recompence of the Reward.<note place="margin">
+                  <hi>V.</hi> 26.</note>
+            </p>
+            <p>But perhaps theſe are Inſtances, that won't be al<g ref="char:EOLhyphen"/>low'd me here, and the Courage of theſe men will be reſolv'd, not into any natural expectance of a fu<g ref="char:EOLhyphen"/>ture Reward, but into ſome ſpecial Promiſe and ſu<g ref="char:EOLhyphen"/>pernatural Revelation: If ſo, there are memorable Examples of this kind to be found, even amongſt Heathens themſelves.</p>
+            <p>To inſtance in one for all, the excellent <hi>Socrates,</hi> who ſuffer'd upon a fundamental Point,<note place="margin">Plato in Phaed.</note> the Unity of God; with how much bravery of Spirit did he de<g ref="char:EOLhyphen"/>mean
+<pb n="11" facs="tcp:96477:8" rendition="simple:additions"/>himſelf, and what admirable Diſcourſes dropp'd from him during his Impriſonment? And laſtly, with how much boldneſs did he look the ghaſtly Meſſen<g ref="char:EOLhyphen"/>ger in the face? And what was his ſupport? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: He encourag'd himſelf in hopes of going into another World, where he ſhould meet with better Company than any was upon Earth: And though his aſſurances of it were none of the beſt, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, yet they were ſuch as bore up all that load, that was charg'd upon them.</p>
+            <p>But then,</p>
+            <p n="3">3. What Account can be given of that great un<g ref="char:EOLhyphen"/>eaſineſs of mind, which waits upon the Commiſſion of a groſs ſin eſpecially, though never ſo private? How comes the man to be ſo ſtrangely alter'd on the ſudden? His Colour changes, his Blood retires, his Spirits flagg, his Tongue falters, his Joynts trem<g ref="char:EOLhyphen"/>ble, his Pulſe grows uncertain, fear, aſtoniſhment, and deſpair hang upon his Brow: And all this is but the outward Scene and Repreſentation of what's act<g ref="char:EOLhyphen"/>ed within: There's a Court of Judicature erected, the guilty Perſon's arreſted by his own thoughts, and ſummon'd to the Bar: Arraign'd, Convicted, Con<g ref="char:EOLhyphen"/>demn'd, and only Repriev'd for a more ſolemn Tri<g ref="char:EOLhyphen"/>al at the great day: Though he walk abroad, hee's but a more enlarged ſort of Priſoner, the Guards of Conſcience attend him in all places, and 'tis as im<g ref="char:EOLhyphen"/>poſſible for him to make his eſcape from them as to flee from himſelf: And now what's the meaning of all this? Only the man's bound over to ſome other Tribunal to anſwer for thoſe Actions
+<pb n="12" facs="tcp:96477:9"/>which the Temporal L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts here take no notice of</p>
+            <p>If it be ſaid, that theſe fears are only the Fruits of bad education, and ſome unſound Principles inſtill'd into our tender Age; How comes it about, that thoſe Perſons, who pretend t<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> he greateſt ſhare of knowledg, who dare undertake to argue down the Belief of a God and Providence, and a future State, have not been able by all their endeavours to raze out theſe Notions, and to conquer the fears ariſing from them? We ſee it's an ordinary thing for men upon due Experience, and better Information, to throw off thoſe Opinions, which were forc'd upon them in their Infancy. But this of a Judgment to come, ſticks cloſer to a man than his skin; the Atheiſt himſelf cannot be rid on't, though he tries all wayes to baffle his Conſcience, and extinguiſh his natural Sentiments about it: And (if we may believe the credible Reports of former times) no men in the World have been more aſſaulted with the fears of a<g ref="char:EOLhyphen"/>nother Life, than they who pretend to render that and every thing elſe in Religion, the Subjects of their Mirth and Drollery. This was the caſe of <hi>Epicurus,</hi> who when he had baniſh'd (as he thought) a Provi<g ref="char:EOLhyphen"/>dence out of the World, yet he could not by all his Arguments baniſh a Conſcience out of himſelf; that was reſolv'd to keep home, and to puniſh the Offen<g ref="char:EOLhyphen"/>der for his other bold and impious undertakings.</p>
+            <p>But perhaps the fear, that waits upon the Com<g ref="char:EOLhyphen"/>miſſion of ſome Acts, relates only to temporal Pu<g ref="char:EOLhyphen"/>niſhments, and the Sword of the Secular Power: It may be, that's it which puts the man out of order; if ſo, how comes it about, that ſuch Acts of Impiety
+<pb n="13" facs="tcp:96477:9"/>as are not puniſhable in an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Civil Court, and ſuch as are done with that ſecrecy, as not to fall under publick Cognizance ſhould have the ſame effect? Or whence it is, that thoſe Perſons which are too big for the Law, ſhould be as much tormented with the fears of this kind, as any that are within the verge of it? Kings and Emperors have been under this Diſcipline, if there be any truth in Sacred or Prophane Authors. This was the caſe of <hi>Belſhazzar</hi> even in the height of his jollity,<note place="margin">
+                  <hi>Dan.</hi> 5.3, 6.</note> while the Hand was writing his doom upon the Wall, his Conſcience was reading over the Indictment within; and then no wonder if his Countenance was changed, and his Thoughts troubled him; if his Joynts were loos'd, and his Knees ſmote againſt each other. Thus it far'd likewiſe with the <hi>Roman</hi> Governour, while St. <hi>Paul</hi> reaſon'd of Righteouſneſs, Temperance,<note place="margin">
+                  <hi>Act.</hi> 24.25.</note> and Judgment to come: was it ſtrange that <hi>Foelix</hi> ſhould tremble at the latter part of the Sermon, who knew himſelf ſo defective in all the reſt? After the Hiſtorian had taken notice of that odd Epiſtle,<note place="margin">Tacit. Annal. lib. <hi>6.</hi> Quid ſcribam vobis Patres Conſcripti, aut quomo<g ref="char:EOLhyphen"/>do ſcribam, aut quid omnino non ſcribam hoc tempore, dii me deae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pejus perdant, quam quotidie perire ſentio, ſi ſcio ubi de hàc re plura.</note> 
+               <hi>Tiberius</hi> the Em<g ref="char:EOLhyphen"/>peror wrote to the Senate; He adds by way of remark, that if the Breaſts of Tyrants could be look'd into, there would be found there, <hi>Laniatus &amp; Ictus,</hi> the wounds of a diſorder'd Spirit.</p>
+            <p>And the Author of the Lives of the <hi>Caeſars,</hi>
+               <note place="margin">Satton. in vitâ Calig. Parag. <hi>5.</hi>
+               </note> in his account of <hi>Caligula</hi> could obſerve, that he who was ſo great a Contemner of the Divine Power, was glad upon every thunderclap to take Sanctuary un<g ref="char:EOLhyphen"/>der
+<pb n="14" facs="tcp:96477:10" rendition="simple:additions"/>his Bed: His Courage then fail'd him, when the Arrows of the Almighty went abroad: And the ſenſe of his guilt made him apt to think, that him<g ref="char:EOLhyphen"/>ſelf was the Perſon that was aim'd at: 'Twere need<g ref="char:EOLhyphen"/>leſs to reckon up more Examples of this kind, ſince we have reaſon enough to believe, that there has not been one Atheiſt in the World, but one tin e or other has been aſſaulted by that clamorous thing within; and eſpecially at the approaches of his dy<g ref="char:EOLhyphen"/>ing hour, when his Conſcience has ſet all his ſins in order before him, and put him in mind of that Wiſe, Powerful, and Juſt God, before whom he is ſum<g ref="char:EOLhyphen"/>mon'd to appear.</p>
+            <p>It has been well obſerved, that the hopes and fears, I am now ſpeaking of, are not to be found in a<g ref="char:EOLhyphen"/>ny other Creature here below beſides man. The Brutes have no ſad preſages, no encouraging aſſu<g ref="char:EOLhyphen"/>rances of another Life, becauſe wholly unconcern'd in the Retributions of it: Man is the only thing in this lower World that's affected with them, and there is no man, that's free from them: Which is a ſtrong Evidence to me, that the Author of our Be<g ref="char:EOLhyphen"/>ing has left theſe impreſſions upon us, and that on purpoſe to guide us by them to the knowledge of a future State.</p>
+            <p>For it cannot be, that a God of infinite Wiſdom ſhould put any thing into our frame, which ſhould ſtand for nothing: Or that a God of infinite Good<g ref="char:EOLhyphen"/>neſs ſhould fix any Principles there, that were per<g ref="char:EOLhyphen"/>fect Cheats and Deluſions, which he muſt have done,
+<pb n="15" facs="tcp:96477:10"/>if there be nothing in another World to verifie thoſe hopes and fears, which all men whatſoever are lya<g ref="char:EOLhyphen"/>ble to in this.</p>
+            <p>To conclude this Argument. Seeing this Doctrine has been univerſally receiv'd by men in all Ages, and in all parts of the World; and whatever hath ſo, may well be thought to have ſome Foundation at leaſt in the very nature of man: Seeing there are ſuch Notions there, as will diſpoſe any man in the right uſe of his Faculties, to the belief of an after-reckoning: Seeing theſe cann't in reaſon be ima<g ref="char:EOLhyphen"/>gin'd to have any other Cauſe, than what our Be<g ref="char:EOLhyphen"/>ing has, the Maker of all things: ſince it could not conſiſt with his Wiſdom or Goodneſs, to leave us un<g ref="char:EOLhyphen"/>der the Conduct of any vain, uſeleſs, or deluſory Principles, it muſt follow, that theſe are certain In<g ref="char:EOLhyphen"/>timations of a Judgment to come, engraven upon the mind of every man, that the very Heathens might have ſome notice of it, and be left inexcuſable, if their Lives and Actions were not govern'd accord<g ref="char:EOLhyphen"/>ing to the belief of it.</p>
+            <p n="2">2. My ſecond Argument for the proof of a future Judgment, is drawn from the Notion of a God and Providence.</p>
+            <p>He that has but ſo much Religion left him, as to own the firſt Articles of his Creed, may be able with very little Logick, to argue himſelf into a Belief of this great Truth.</p>
+            <pb n="16" facs="tcp:96477:11"/>
+            <p>God being the Fountain of all poſſible Perfecti<g ref="char:EOLhyphen"/>ons, theſe things muſt be included in the Notion of him: Infinite Knowledge: Exact Juſtice: Irreſiſti<g ref="char:EOLhyphen"/>ble Power: To which if we add the uſual Methods of his Providence, relating to good and evil men in this Life, we ſhall then have a full demonſtration of this Principle, that there is another time to be expe<g ref="char:EOLhyphen"/>cted, when all men ſhall receive according to their doings.</p>
+            <p n="1">1. As to his Knowledge, we are ſure it cann't be other than infinite: Any thing leſs than that would be ſo far from being a Perfection, that it would be a real blemiſh, and diſparagement to the Divine Nature: And if infinite, then (as to what concerns our preſent enquiry) it muſt extend to the Perſons of all men, from the beginning to the end of the World; and to all the Actions of all men, not only ſuch as are more open and publick, but ſuch alſo as are more ſecret and reſerv'd. Whatever Arts are made uſe of by us to conceal our faults from the Knowledg of man, 'tis impoſſible, that they ſhould have the ſame effect upon God, whoſe all-ſeeing Eye pierceth through the faireſt Veils and cloſeſt Diſ<g ref="char:EOLhyphen"/>guiſes of Hypocriſie: From which it will follow, that all thoſe Acts of ſin, which ſcape the Cen<g ref="char:EOLhyphen"/>ſure of the Magiſtrate, becauſe either not within his Sphere (as all internal acts of the mind) or done with that ſecrecy, that there's no Evidence of them, muſt unavoidably fall under the notice and obſervation of God.</p>
+            <pb n="17" facs="tcp:96477:11"/>
+            <p n="2">2. As to his Juſtice: We cann't frame ſuch a no<g ref="char:EOLhyphen"/>tion of an infinite Juſtice, as to think, that it will either juſtifie the Wicked, or condemn the Righte<g ref="char:EOLhyphen"/>ous. Shall not the Judge of all the Earth do right? was a Queſtion, that carried its own Anſwer along with it, and would as ſoon have been reſolv'd by a ſober Heathen, as a Patriarch.</p>
+            <p>We cann't think, that the great Law-giver ſhould be ſo much of <hi>Epicurus</hi>'s mind, as never to caſt an eye upon his Creatures below, or if he did, be on<g ref="char:EOLhyphen"/>ly an idle ſpectator of what's done here. We cann't think, that he ſhould have no concern for thoſe Laws he has given us, or look down with as much favour on them that defie his Authority, and tram<g ref="char:EOLhyphen"/>ple upon his Commands, as on them that are care<g ref="char:EOLhyphen"/>ful to preſerve a due regard to both. Rewards and Puniſhments are the uſual Sanctions of all Laws: And then ſure thoſe that proceed from the higheſt Authority in the World, and are of greateſt conſe<g ref="char:EOLhyphen"/>quence to the Peace and Welfare of mankind (as the Laws of God certainly are) muſt have the ſtrong<g ref="char:EOLhyphen"/>eſt Motives to bind them upon us: The offer of the greateſt Reward to the Obedient; and the threat<g ref="char:EOLhyphen"/>ning of the ſevereſt Penalty to the flubborn; that Religion may be our Intereſt as well as Duty, and Vice the contradiction of both. And we may be further aſſur'd, that ſuch Rewards and Puniſhments will one time or other be apportion'd to the Actions of all men, ſeeing they are in the hands of the moſt exact Juſtice to diſpenſe them. 'Twere below an infinite Wiſdom, to make Laws without ſuch en<g ref="char:EOLhyphen"/>forcements,
+<pb n="18" facs="tcp:96477:12"/>and repugnant to his Juſtice, not to execute them.</p>
+            <p n="3">3. As to his Power: If that be equal with his Knowledg and Juſtice, as certainly it is, can he want Methods to reward the Righteous, or puniſh the Wicked? Whatever ſtrength there is in the Crea<g ref="char:EOLhyphen"/>tures, 'tis but a Derivation from him as the Foun<g ref="char:EOLhyphen"/>tain, and 'tis under his Government, as all other things, and directed to ſuch ends as he thinks fit. The Angels are but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Spirits that mi<g ref="char:EOLhyphen"/>niſter to his Will as well as our wants, and all infe<g ref="char:EOLhyphen"/>rior Beings can have no more honourable an employ<g ref="char:EOLhyphen"/>ment, than to be ſent on his Errand; and if theſe are at his beck, he cann't want either Inſtruments of Wrath to avenge himſelf on the Wicked, or wayes of mercy for the recompence of the good.</p>
+            <p>But now if we conſider the uſual Courſe of his Providence, we cann't ſay, that Rewards and Pu<g ref="char:EOLhyphen"/>niſhments are exactly ſuited to mens actions here: Temporal Happineſs is not always the Portion of thoſe that reverence a Deity, nor are Temporal Judgments the certain Fate of ſuch as contemn it: 'Tis true, there have been in all Ages ſome extra<g ref="char:EOLhyphen"/>ordinary inſtances of a Divine Vengeance purſuing the Wicked, and as remarkable Examples of the worldly ſucceſs and proſperity of good men, God having been pleas'd by theſe wayes, to give ſuffici<g ref="char:EOLhyphen"/>ent Teſtimony of an over ruling Providence in all the Centuries of the World And you perhaps theſe Inſtances are but rare, to wha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight be produc'd to
+<pb n="19" facs="tcp:96477:12"/>the contrary. How often do we ſee Meekneſs op<g ref="char:EOLhyphen"/>preſs'd, and Innocence ſlander'd, and Vertue tram<g ref="char:EOLhyphen"/>pled in the duſt, while Pride, Ambition and Ty<g ref="char:EOLhyphen"/>ranny have been lifted up to the higheſt Pinacles of Honour? As if Satan had clear'd his pretended Claim to all the Kingdoms of the Earth, and the Glo<g ref="char:EOLhyphen"/>ry of all ſublunary things, and none were to be ad<g ref="char:EOLhyphen"/>vanc'd there but his own Favourites. How often do we ſee the unjuſt and the fraudulent to riſe upon the Ruins of the honeſt plain-dealing man, as if that famous Maxime, which has done more miſchief in the World, than any other Poſition beſides, con<g ref="char:EOLhyphen"/>cerning Dominion being founded in Grace, were perfectly turn'd the other way, and wickedneſs were the only ſupport of a good Title? Good men are no more exempt from the common miſeries of humane Life, than they are from death it ſelf, the cloſe of all: Nay there are ſome Caſes, wherein theſe are the only Sufferers, witneſs the Primitive times, when to be Atheiſt or Idolater, a worſhipper of falſe Gods, or none at all, was Protection enough againſt the force of the Laws, but to be a Chriſtian was ſuch a Crime, as all the murdering Engines Hell could in<g ref="char:EOLhyphen"/>vent, or the malice of a perſecuting Age could ſet on work, were not ſevere enough to puniſh.</p>
+            <p>Theſe are ſome of the Objections that puzled the Heathens, and upon this ſcore the Belief of a Pro<g ref="char:EOLhyphen"/>vidence ſuffer'd ſo much in the World, ſome utterly denying it, others allowing it under various Reflecti<g ref="char:EOLhyphen"/>ons, though the wiſeſt of them inclin'd to the ſa<g ref="char:EOLhyphen"/>feſt ſide: And no wonder, ſince the Royal Prophet
+<pb n="20" facs="tcp:96477:13" rendition="simple:additions"/>himſelf was offended at it. After he had obſerv'd, that the Proud, the Violent, the Atheiſt and the Blaſphemer were the thriving men, he was juſt reel<g ref="char:EOLhyphen"/>ing into Infidelity:<note place="margin">
+                  <hi>Pſ.</hi> 73.13, 14.</note> 
+               <hi>Verily I have cleanſed my heart in vain, and waſhed my hands in innocency, for all the day long have I been plagued, and chaſtened every morning.</hi>
+            </p>
+            <p>But whatever impreſſions the uncertainty of Gods Proceedings here might make upon the Spirits of ſome men, 'tis an undeniable Evidence of a Judg<g ref="char:EOLhyphen"/>ment to come: For if there be a Supreme Power preſiding over all things, and that Power be furniſh'd with infinite Knowledg, and ſo in a condition to ob<g ref="char:EOLhyphen"/>ſerve the Actions of all men good and bad, with in<g ref="char:EOLhyphen"/>finite Juſtice, and ſo reſolv'd to render to all accord<g ref="char:EOLhyphen"/>ing to their doings, with infinite ſtrength, and ſo fitted for the Execution of that Juſtice, it muſt fol<g ref="char:EOLhyphen"/>low, that Vertue will certainly be rewarded, and Vice as certainly puniſh'd; and if that be not ex<g ref="char:EOLhyphen"/>actly done here, 'twill alſo follow, that there is a<g ref="char:EOLhyphen"/>nother time appointed to review the Lives and Acti<g ref="char:EOLhyphen"/>ons of all men, and to give them an anſwerable Re<g ref="char:EOLhyphen"/>compence; to vindicate the Honour of Gods Juſtice and Providence, and to make all men ſee, that to be Religious, was to be wiſe; to be Atheiſtical and Prophane, the greateſt madneſs in the World.</p>
+            <p>If it be ſaid, that Vertue is its own Reward, and Vice its own Puniſhment, in reſpect of that Peace of Conſcience which follows the one, and that ſting<g ref="char:EOLhyphen"/>ing remorſe which attends the other, and conſe<g ref="char:EOLhyphen"/>quently
+<pb n="21" facs="tcp:96477:13"/>that there is no need of a future reckoning for the Vindication of Divine Providence: I anſwer, That notwithſtanding theſe moral advantages or diſadvantages enſuing upon mens actions, there is ſome Phyſical good and evil to be expected from all Law-givers, without which they could not be juſt: Would it be a ſufficient diſcharge of a Governors Duty, to let the blackeſt Crimes go unpuniſhed, be<g ref="char:EOLhyphen"/>cauſe the Actors of them have been already torment<g ref="char:EOLhyphen"/>ed by ſome revengeful guilt? Or to ſuffer his beſt Subjects to lye under the moſt unjuſt Oppreſſions, becauſe they feel within themſelves the happy Te<g ref="char:EOLhyphen"/>ſtimonies of their own innocence? Beſides, what re<g ref="char:EOLhyphen"/>ward is there to him, who offers his Life a Sacrifice for his Religion, ſuppoſing no future State? Is the pleaſure of Martyrdom ſo great, to outweigh the pain of it? Is there any thing ſo deſirable in Racks and Priſons, the Croſs and the Flames, to make a ſo<g ref="char:EOLhyphen"/>ber man quit all his Intereſts in the purſuit of? If we had only hopes in this Life, were not we Chriſti<g ref="char:EOLhyphen"/>ans of all men the moſt miſerable? And what Pu<g ref="char:EOLhyphen"/>niſhment is there to him, who has by a conſtant Cu<g ref="char:EOLhyphen"/>ſtom of ſinning, ſo baffled his Conſcience, that like <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſoblig'd Friend it grows weary of rebuking him, and ſuffers him to follow his own Inclinations with<g ref="char:EOLhyphen"/>out any check? Add to this, that the ſatisfaction a<g ref="char:EOLhyphen"/>riſing from doing good, and the regret which fol<g ref="char:EOLhyphen"/>lows the contrary, are not ſufficient Motives to keep men within due bounds, and therefore could never be intended by the great Law-giver, as the whole of that Recompence which good and bad men are to expect from him: Were there no other induce<g ref="char:EOLhyphen"/>ments
+<pb n="22" facs="tcp:96477:14"/>here below, to ſecure Obedience to humane Laws, and to preſerve a due Reverence to the Au<g ref="char:EOLhyphen"/>thors of them, Princes would be but the more glit<g ref="char:EOLhyphen"/>tering pieces of State-Pageantry, and their Laws as empty as the Breath that uttered them: No man would think himſelf any farther oblig'd to obey, than than Obedience could be reconcil'd to his Inte<g ref="char:EOLhyphen"/>reſt; Nor would the Divine Laws ſpeed much bet<g ref="char:EOLhyphen"/>ter: Theſe would be ſlighted as much as the other, notwithſtanding the greater Majeſty of their Au<g ref="char:EOLhyphen"/>thor, whenſoever mens worldly Advantages might tempt them to it: There muſt be therefore ſome greater incitement to Vertue, than Peace of mind, and ſome ſtronger diſcouragement to Vice than the diſquiet of it: There muſt be a far more exceeding weight of glory to draw down the Ballance againſt all the hardſhips good men meet with upon the ſcore of Religion: And ſome more intolerable load of mi<g ref="char:EOLhyphen"/>ſery to keep bad men in awe, and innocent, though againſt their wills. And if theſe are not diſpens'd here, there muſt be another day for that work, a day, wherein we muſt all appear before the Judg<g ref="char:EOLhyphen"/>ment Seat of Chriſt; which brings me to the laſt thing, <hi>viz.</hi>
+            </p>
+            <p n="3">3. That this Doctrine is infinitely certain upon the grounds of Scripture, and eſpecially, the Goſ<g ref="char:EOLhyphen"/>pel, whoſe great Priviledge it is, to have brought Life and Immortality to Light: This is the great Inſtrument of our Belief; moral Arguments may make it reaſonable, this makes it our duty to aſſent, and turns humane Perſwaſion into Divine Faith:
+<pb n="23" facs="tcp:96477:14"/>Here we ſhall find the ſolemn Aſſize of the great Day painted to the Life, and all neceſſary Circum<g ref="char:EOLhyphen"/>ſtances relating to it punctually ſet down. Time and Place, indeed, God has reſerved as ſecrets to himſelf, becauſe not ſo fit for us to be acquainted with, and ſo has barr'd us out from all nice and curious ſpeculations about them, but every thing elſe is allow'd us.</p>
+            <p>Would you know the Preparations leading to that great appearance of Men and Angels? They are infinitely beyond all Pomp and Ceremony on Earth: For the Sun ſhall be darkned,<note place="margin">
+                  <hi>Mitth.</hi> 24.29.</note> and the Moon ſhall not give her Light, and the Stars ſhall fall from Heaven, and the Powers of the Heavens ſhall be ſhaken: And the Angels ſhall be ſent abroad,<note place="margin">V. <hi>31.</hi>
+               </note> with the great noiſe of a Trumpet, to ſummon all men to their laſt Reckoning.</p>
+            <p>Would you know the Perſon of the Judge? 'Tis that Son of man, to whom the Father has commit<g ref="char:EOLhyphen"/>ted all Judgment: A Perſon of that Wiſdom,<note place="margin">
+                  <hi>Act.</hi> 17.31.</note> that he ſees into the Merits of every Cauſe; of that Ju<g ref="char:EOLhyphen"/>ſtice, that he cann't determine wrongfully; and of that Authority, that from his Sentence there lyes no appeal.</p>
+            <p>Would you know the Perſons that are to appear before him? They are the Quick and Dead, all that ſhall be found alive upon Earth at his coming, and all that ſhall be cloyſter'd up in the dark Regions of the Grave: At the great Goal-delivery,<note place="margin">
+                  <hi>Rev.</hi> 20.13.</note> the Sea
+<pb n="24" facs="tcp:96477:15" rendition="simple:additions"/>ſhall render up the dead that are in it, and Death and Hell ſhall bring their Priſoners to the Bar, that they may all receive according to their doings.</p>
+            <p>Would you know the Proceedings of that Court? They'l be according to Law, the natural Law writ<g ref="char:EOLhyphen"/>ten in our Hearts, and thoſe Poſitive Laws, the Scripture has ſuperadded to them.</p>
+            <p>Would you know the Evidence to be produc'd upon every man?<note place="margin">
+                  <hi>Rev.</hi> 20.12.</note> 'Tis the Teſtimony of Conſcience, which keeps a perfect Diurnal of our ſeveral Acti<g ref="char:EOLhyphen"/>ons, from the beginning to the end of our dayes: An Evidence, we have no reaſon to except againſt, becauſe part of our ſelves, and ſo will never give in a wrong or partial Information: An Evidence, the Judge will never queſtion, becauſe 'tis his Miniſter in every one of us, one part of whoſe Office it is to keep a true Record of all our doings.</p>
+            <p>Would you know the Concluſion of all? The Righteous ſhall go into Life Eternal,<note place="margin">
+                  <hi>Mat.</hi> 25 46.</note> where they cann't fail of the moſt raviſhing Delights, being poſſeſs'd of him, in whoſe preſence are Joyes, and at whoſe right hand are Pleaſures, and that for ever<g ref="char:EOLhyphen"/>more: The wicked ſhall go into a place of Torment provided for the Devil and his Angels, where the Atheiſt will meet with late and ſad aſſurances of a Divine Power and Juſtice; the Blaſphemer will find what it is to affront the Author of his Being; the Prophane and Diſſolute will ſee, what an unhap<g ref="char:EOLhyphen"/>py choice they made, when they left the rugged
+<pb n="25" facs="tcp:96477:15" rendition="simple:additions"/>wayes of Vertue, and pitch'd upon the broad Paths of Sin, pleaſant indeed to the Eye, and eaſie to the Traveller, but ending at laſt in a Precipice of una<g ref="char:EOLhyphen"/>voidable ruine.</p>
+            <p>Knowing therefore the Terrors of the Lord, let me perſwade all that hear me this day, ſo to live, that they may be thought worthy to eſcape them: Whether Perſons in Authority, that they remembring whoſe Miniſters they are, and to whom they are ac<g ref="char:EOLhyphen"/>countable for that Power entruſted to them, may be careful to employ it to the Puniſh<g ref="char:EOLhyphen"/>ment of Wickedneſs and Vice, and to the maintenance of true Religion and Vertue: Or other ſubordinate Perſons, that they hav<g ref="char:EOLhyphen"/>ing alwayes before their Eyes the great Ac<g ref="char:EOLhyphen"/>count, may endeavour to live in a due Re<g ref="char:EOLhyphen"/>verence to the Majeſty on High, and a qui<g ref="char:EOLhyphen"/>et ſubjection to his Vicegerent on Earth, and in common honeſty among themſelves.</p>
+            <p>In a word, that we may all of us, both in Church and State act ſuitable to the Rules of our holy Profeſſion, to the many weigh<g ref="char:EOLhyphen"/>ty Obligations our Religion has laid upon us, and eſpecially to the Belief of this great
+<pb n="26" facs="tcp:96477:16"/>Article of a Judgment to come, that ſo we may finiſh our Courſe with joy, and then receive the Fruit of our doings, even a Crown of Glory.</p>
+            <closer>God of his infinite mercy grant, for his Sons ſake Jeſus Chriſt our Lord, to whom with the Fa<g ref="char:EOLhyphen"/>ther and the bleſſed Spirit be all Honour and Glory, World without end.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96477:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
